@@ -9,8 +9,8 @@ Only code and lightweight processed files are included; large proprietary datase
 
 ### **data_crawling/**
 Scripts for collecting patent data.
-- `scrape_patents_ipi.cjs` – Swissreg (IPI) patent crawler.
-- `patent_scraping_google.py` – Google Patents crawler.
+- `scrape_patents_ipi.cjs` 
+- `patent_scraping_google.py` 
 
 ### **datasets/**
 Cleaned datasets and Stata analysis code.
