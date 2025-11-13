@@ -33,8 +33,3 @@ Text-mining and indicator construction.
 - Stata 17+
 - Key Python libs: `pandas`, `numpy`, `pyarrow`, `tqdm`, `requests`, `beautifulsoup4`
 
----
-
-## Notes
-Large raw text files (annual reports, full patent archives) are not included.  
-This repo contains only the code and necessary processed outputs for reproducibility.
