@@ -1,1 +1,7 @@
 
+cd ch-patent-mining-ai-innovation
+rm -r DataSets
+
+git add -A
+git commit -m "Delete DataSets folder"
+git push
